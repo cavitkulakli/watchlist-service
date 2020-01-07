@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0375ebc-62fc-4977-831f-33a4449c66c0" name="Default Changelist" comment="" />
+    <list default="true" id="c0375ebc-62fc-4977-831f-33a4449c66c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gatewayapplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayapplication/src/main/java/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayapplication/src/main/java/filters/DummyFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayapplication/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +33,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VX9feWjzC2krvQOlxRIosITD0a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -139,9 +156,10 @@
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
     <state x="879" y="217" key="#Inspections/0.23.2560.1057/421.1103.1680.961@0.23.2560.1057" timestamp="1577469936142" />
-    <state x="879" y="217" key="#Project_Structure" timestamp="1577468455186">
-      <screen x="0" y="23" width="2560" height="1057" />
+    <state x="577" y="199" key="#Project_Structure" timestamp="1578426684238">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
+    <state x="577" y="199" key="#Project_Structure/0.23.1680.961@0.23.1680.961" timestamp="1578426684238" />
     <state x="879" y="217" key="#Project_Structure/0.23.2560.1057/421.1103.1680.961@0.23.2560.1057" timestamp="1577468455186" />
     <state x="995" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1577468025117">
       <screen x="0" y="23" width="2560" height="1057" />
@@ -152,10 +170,10 @@
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
     <state x="1095" y="484" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1057/421.1103.1680.961@0.23.2560.1057" timestamp="1577470377672" />
-    <state x="923" y="405" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577470277715">
-      <screen x="0" y="23" width="2560" height="1057" />
+    <state x="606" y="370" width="473" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578427749688">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="606" y="370" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.961@0.23.1680.961" timestamp="1577389082735" />
+    <state x="606" y="370" width="473" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.961@0.23.1680.961" timestamp="1578427749688" />
     <state x="923" y="405" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.2560.1057/421.1103.1680.961@0.23.2560.1057" timestamp="1577470277715" />
     <state x="1067" y="430" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1577469984046">
       <screen x="0" y="23" width="2560" height="1057" />
@@ -197,9 +215,9 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="498" y="146" width="683" height="714" key="find.popup/0.23.1680.961@0.23.1680.961" timestamp="1578336770815" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1577389849492">
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578426937390">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1577389849492" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1578426937390" />
   </component>
 </project>
